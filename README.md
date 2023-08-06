@@ -2,8 +2,8 @@
 
 ## About Me:
 
-- I’m currently learning **React**
-
+- I’m currently learning **React**, **TypeScript** and all **MERN Stack**
+ 
 ## Languages and 🛠️Tools that I like:
 
 <img align="left" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
