@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- I’m currently learning **React**, **TypeScript** and all **MERN Stack**
+- I’m currently learning **React**, **NextJS**, **TypeScript** and all **MERN Stack**
  
 ## Languages and 🛠️Tools that I like:
 
